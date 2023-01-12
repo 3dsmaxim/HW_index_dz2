@@ -1,0 +1,37 @@
+.pIa {
+    width: 600px;
+}
+.pPa {
+    color: rgb(225, 245, 43);
+    
+}
+.pIb {
+    height: 200px;
+}
+body {    
+    background-image: url(img/images.png);    
+    background-position: center center;
+    background-size: 200px;
+    background-color: rgba(39, 39, 39, 0.919);
+    background-blend-mode: darken;
+    color: azure;
+    margin-left: 210px;
+    font-size: 1.5rem;
+
+}
+html{
+    font-family: 'AC Boucle';
+    
+}
+@font-face {
+    font-family: 'AC Boucle';
+    src: url(Font/ac_boucle.eot);    
+    src: url(Font/ac_boucle.eot?#iefix) format('embedded-opentype'),        
+        url(Font/ac_boucle.woff2) format('woff2'),        
+        url(Font/ac_boucle.woff) format('woff'),        
+        url(Font/ac_boucle.ttf) format('truetype'),        
+        url(Font/ac_boucle.svg#ac_boucle) format('svg');    
+}
+a{
+    color: rgb(218, 255, 123);
+}
